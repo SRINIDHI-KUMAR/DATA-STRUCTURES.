@@ -1,4 +1,4 @@
-2.	C++ Program to sort the students by their grades or names in a small class using selection sort
+C++ Program to sort the students by their grades or names in a small class using selection sort
 #include <iostream>
 using namespace std;
 class Student {
