@@ -1,4 +1,4 @@
-1.	C++ Program to sort the employees and their salary in ascending order of salary using the bubble sort.
+	C++ Program to sort the employees and their salary in ascending order of salary using the bubble sort.
 #include <iostream>
 using namespace std;
 claSs Employee {
