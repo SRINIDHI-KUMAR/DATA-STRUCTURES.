@@ -1,4 +1,4 @@
-1.	C++ Program to count the number of unique elements in an array of n elements
+	C++ Program to count the number of unique elements in an array of n elements
  #include<iostream>
 using namespace std;
 int main() {
