@@ -1,4 +1,4 @@
-	You are given an integer array arr. You can choose an array of integers and remove all the occurrences of these integers in the array. Return the minimum size
+You are given an integer array arr. You can choose an array of integers and remove all the occurrences of these integers in the array. Return the minimum size
 of the array so that at least half of the integers of the array are removed.
  #include <iostream>
 using namespace std;
