@@ -1,4 +1,4 @@
-4.	Given an array arr[] of length N, the task is to find the length of the longest subarray which consists of consecutive numbers 
+	Given an array arr[] of length N, the task is to find the length of the longest subarray which consists of consecutive numbers 
 in increasing order, from the array.
 #include<iostream>
 using namespace std;
