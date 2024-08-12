@@ -1,4 +1,4 @@
-2.	C++ Program to Remove Duplicate Elements from Array.
+2.C++ Program to Remove Duplicate Elements from Array.
 #include<iostream>
     using namespace std;
     int main() {
